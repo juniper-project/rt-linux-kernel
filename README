@@ -1,0 +1,13 @@
+* CONTENTS
+
+	- PREEMPT_RT v. 4.0.4-rt1;
+
+	- BFQ v. 4.0-v7r8.
+
+  Thase patches apply to Linux kernel 4.0.4.
+
+
+  A packaged version of the patched kernel for Debian 7 Wheezy (amd64)
+  is available at:
+
+	http://retis.sssup.it/people/nino/Juniper/d3_2_rebase/
